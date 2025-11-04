@@ -1918,7 +1918,7 @@ checksum = "9b4f627cb1b25917193a259e49bdad08f671f8d9708acfd5fe0a8c1455d87220"
 [[package]]
 name = "picky"
 version = "7.0.0-rc.19"
-source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
+source = "git+https://github.com/allan2/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "base64",
  "block-buffer 0.11.0-rc.5",
@@ -1966,7 +1966,7 @@ dependencies = [
 [[package]]
 name = "picky-asn1"
 version = "0.10.1"
-source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
+source = "git+https://github.com/allan2/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "oid",
  "serde",
@@ -1978,7 +1978,7 @@ dependencies = [
 [[package]]
 name = "picky-asn1-der"
 version = "0.5.4"
-source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
+source = "git+https://github.com/allan2/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "picky-asn1",
  "serde",
@@ -1988,7 +1988,7 @@ dependencies = [
 [[package]]
 name = "picky-asn1-x509"
 version = "0.15.2"
-source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
+source = "git+https://github.com/allan2/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "base64",
  "crypto-bigint",
@@ -2003,7 +2003,7 @@ dependencies = [
 [[package]]
 name = "picky-krb"
 version = "0.11.3"
-source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
+source = "git+https://github.com/allan2/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "aes",
  "block-buffer 0.11.0-rc.5",
