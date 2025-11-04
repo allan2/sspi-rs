@@ -1918,8 +1918,7 @@ checksum = "9b4f627cb1b25917193a259e49bdad08f671f8d9708acfd5fe0a8c1455d87220"
 [[package]]
 name = "picky"
 version = "7.0.0-rc.19"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "143fec6b7fa8ec91cbe1136f70ffa5de7e9627064da7bc3f7c0becc9b9493f8c"
+source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "base64",
  "block-buffer 0.11.0-rc.5",
@@ -1967,8 +1966,7 @@ dependencies = [
 [[package]]
 name = "picky-asn1"
 version = "0.10.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2ff038f9360b934342fb3c0a1d6e82c438a2624b51c3c6e3e6d7cf252b6f3ee3"
+source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "oid",
  "serde",
@@ -1980,8 +1978,7 @@ dependencies = [
 [[package]]
 name = "picky-asn1-der"
 version = "0.5.4"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b491eb61603cba1ad5c6be0269883538f8d74136c35e3641a840fb0fbcd41efc"
+source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "picky-asn1",
  "serde",
@@ -1991,8 +1988,7 @@ dependencies = [
 [[package]]
 name = "picky-asn1-x509"
 version = "0.15.2"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c97cd14d567a17755910fa8718277baf39d08682a980b1b1a4b4da7d0bc61a04"
+source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "base64",
  "crypto-bigint",
@@ -2007,8 +2003,7 @@ dependencies = [
 [[package]]
 name = "picky-krb"
 version = "0.11.3"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "14b13eb1a97b2293277b475f07d0c36c33579e2e71f852557015addcd95f8892"
+source = "git+https://github.com/Devolutions/picky-rs?rev=9829751#9829751b4cd97ce79fef634e2b3d5c08b847c44e"
 dependencies = [
  "aes",
  "block-buffer 0.11.0-rc.5",
